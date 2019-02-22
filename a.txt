@@ -1,2 +1,4 @@
 update the test file
+<<<<<<< Updated upstream
 update 2nd time from remote
+2nd update from local
